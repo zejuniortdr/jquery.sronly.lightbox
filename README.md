@@ -13,12 +13,12 @@ Instalação
 
 - Clone este repositório para sua pasta de plugins do JQuery
 
-- Adicione o código abaixo para incorporar os estilos necessários:
+- Adicione o código abaixo (adequando o caminho para seu projeto) para incorporar os estilos necessários:
 ```html
 <link rel="stylesheet" type="text/css" href="jquery.sronly.lightbox/jquery.sronly.lightbox.css">
 ```
 
-- Adicione o código abaixo para incorporar os estilos necessários:
+- Adicione o código abaixo (adequando o caminho para seu projeto) para incorporar os estilos necessários:
 ```html
 <script src="jquery.sronly.lightbox/jquery.sronly.lightbox.js"></script>
 ```
