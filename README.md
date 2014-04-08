@@ -27,5 +27,5 @@ Utilização
 --------------
 - Adicone a classe "lightbox" nos links que dejesar o lightbox
 ```html
-<a class="lightbox" href="SEU-LINK-AQUI">Vídeo</a>
+<a class="lightbox" href="URL-DO-SEU-LINK-AQUI">TEXTO DO SEU LINK AQUI</a>
 ```
