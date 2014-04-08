@@ -20,7 +20,7 @@ Instalação
 
 - Adicione o código abaixo para incorporar os estilos necessários:
 ```html
---- <script src="{% static "site/js/plugins/jquery.sronly.lightbox/jquery.sronly.lightbox.js" %}"></script>
+--- <script src="jquery.sronly.lightbox/jquery.sronly.lightbox.js" %}"></script>
 ```
 
 Utilização
