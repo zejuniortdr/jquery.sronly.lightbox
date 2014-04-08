@@ -25,7 +25,7 @@ Instalação
 
 Utilização
 --------------
-- Adicone a classe "lightbox" nas tags <a> que dejesar o lightbox
+- Adicone a classe "lightbox" nos links que dejesar o lightbox
 ```html
 <a class="lightbox" href="SEU-LINK-AQUI">Vídeo</a>
 ```
