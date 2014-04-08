@@ -15,12 +15,12 @@ Instalação
 
 - Adicione o código abaixo (adequando o caminho para seu projeto) para incorporar os estilos necessários:
 ```html
-<link rel="stylesheet" type="text/css" href="jquery.sronly.lightbox/jquery.sronly.lightbox.css">
+<link rel="stylesheet" type="text/css" href="jquery.sronly.lightbox/jquery.sronly.lightbox.min.css">
 ```
 
 - Adicione o código abaixo (adequando o caminho para seu projeto) para incorporar os estilos necessários:
 ```html
-<script src="jquery.sronly.lightbox/jquery.sronly.lightbox.js"></script>
+<script src="jquery.sronly.lightbox/jquery.sronly.lightbox.min.js"></script>
 ```
 
 Utilização
